@@ -18,8 +18,6 @@ $(function() {
   });
 });
 
-
-
 // $('#container').append('<div id="contextmenu">');
 // $('#contextmenu').html('<ul>');
 // $('ul').html('<li>複製');
